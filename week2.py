@@ -1,5 +1,9 @@
-name = "Shaheryar"
-print(name)
+names = ["Shah","Chen","Su","Tom", "Sam"]
 
-surname = "Raja"
-print(surname)
+str = "Greetings,"
+
+print(str,names[0])
+print(str,names[1])
+print(str,names[2])
+print(str,names[3])
+print(str,names[4])
