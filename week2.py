@@ -1,9 +1,6 @@
-names = ["Shah","Chen","Su","Tom", "Sam"]
+locations = ["Hong Kong", "Toyko", "Shanghai", "Monaco", "Seoul"]
+locations.sort(reverse=True)
 
-str = "Greetings,"
+print(locations)
 
-print(str,names[0])
-print(str,names[1])
-print(str,names[2])
-print(str,names[3])
-print(str,names[4])
+
